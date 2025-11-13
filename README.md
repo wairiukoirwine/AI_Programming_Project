@@ -17,4 +17,4 @@ The chatbot acts as a Course Assistant that responds to frequently asked questio
 2. Run all cells to initialize the chatbot.  
 3. Type a question or greeting when prompted to start interacting.
 
-## Project Structure
+
